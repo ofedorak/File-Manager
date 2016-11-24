@@ -8,7 +8,7 @@ using Bll.Models;
 
 namespace Bll.Services.Impl
 {
-    public class FileDirectoryService
+    public class FileDirectoryService : IFileDirectoryService
     {
         public DirectoryInfoModel GetDirectoryInfo(string path)
         {
@@ -57,7 +57,7 @@ namespace Bll.Services.Impl
             };
         }
 
-        public async Task GetFiles(string root, FileCountInfoModel fileCountInfoModel)
+        private async Task GetFiles(string root, FileCountInfoModel fileCountInfoModel)
         {
             Stack<string> pending = new Stack<string>();
             pending.Push(root);

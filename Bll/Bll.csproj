@@ -43,6 +43,7 @@
     <Compile Include="Models\DirectoryInfoModel.cs" />
     <Compile Include="Models\FileCountInfoModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\IFileDirectoryService.cs" />
     <Compile Include="Services\Impl\FileDirectoryService.cs" />
   </ItemGroup>
   <ItemGroup />

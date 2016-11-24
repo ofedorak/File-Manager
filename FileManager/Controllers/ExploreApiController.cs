@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using Antlr.Runtime.Misc;
 using Bll.Models;
+using Bll.Services;
 using Bll.Services.Impl;
 using FileManager.Models.Api;
 
@@ -10,7 +11,7 @@ namespace FileManager.Controllers
 {
     public class ExploreApiController : ApiController
     {
-        public FileDirectoryService FileDirectoryService = new FileDirectoryService();
+        public IFileDirectoryService FileDirectoryService = new FileDirectoryService();
 
 
         [HttpGet]
