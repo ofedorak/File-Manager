@@ -1,0 +1,122 @@
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\VBCSCompiler.exe
+D:\Projects\FileManager\FileManager\bin\ApplicationInsights.config
+D:\Projects\FileManager\FileManager\bin\roslyn\csc.exe
+D:\Projects\FileManager\FileManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\FileManager\FileManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\FileManager\FileManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\FileManager\FileManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\FileManager\FileManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\FileManager\FileManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\FileManager\FileManager\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\FileManager\FileManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\FileManager\FileManager\bin\roslyn\vbc.exe
+D:\Projects\FileManager\FileManager\bin\roslyn\VBCSCompiler.exe
+D:\Projects\FileManager\FileManager\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\FileManager\FileManager\bin\FileManager.dll.config
+D:\Projects\FileManager\FileManager\bin\FileManager.dll
+D:\Projects\FileManager\FileManager\bin\FileManager.pdb
+D:\Projects\FileManager\FileManager\bin\Antlr3.Runtime.dll
+D:\Projects\FileManager\FileManager\bin\Bll.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.Web.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\FileManager\FileManager\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\FileManager\FileManager\bin\Newtonsoft.Json.dll
+D:\Projects\FileManager\FileManager\bin\System.Net.Http.Formatting.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.Helpers.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.Http.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.Http.WebHost.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.Mvc.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.Optimization.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.Razor.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.WebPages.dll
+D:\Projects\FileManager\FileManager\bin\System.Web.WebPages.Razor.dll
+D:\Projects\FileManager\FileManager\bin\WebGrease.dll
+D:\Projects\FileManager\FileManager\bin\Bll.pdb
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.Web.xml
+D:\Projects\FileManager\FileManager\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\FileManager\FileManager\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\FileManager\FileManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\FileManager\FileManager\bin\Newtonsoft.Json.xml
+D:\Projects\FileManager\FileManager\bin\System.Net.Http.Formatting.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.Helpers.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.Http.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.Http.WebHost.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.Mvc.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.Optimization.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.Razor.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.WebPages.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\FileManager\FileManager\bin\System.Web.WebPages.Razor.xml
+D:\Projects\FileManager\FileManager\bin\Antlr3.Runtime.pdb
+D:\Projects\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+D:\Projects\FileManager\FileManager\obj\Debug\FileManager.dll
+D:\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
+D:\Projects For Test\FileManager\FileManager\bin\ApplicationInsights.config
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\csc.exe
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\vbc.exe
+D:\Projects For Test\FileManager\FileManager\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects For Test\FileManager\FileManager\bin\FileManager.dll.config
+D:\Projects For Test\FileManager\FileManager\bin\FileManager.dll
+D:\Projects For Test\FileManager\FileManager\bin\FileManager.pdb
+D:\Projects For Test\FileManager\FileManager\bin\Antlr3.Runtime.dll
+D:\Projects For Test\FileManager\FileManager\bin\Bll.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.Web.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.ApplicationInsights.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects For Test\FileManager\FileManager\bin\Newtonsoft.Json.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Net.Http.Formatting.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Helpers.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Http.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Http.WebHost.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Mvc.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Optimization.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Razor.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.WebPages.Deployment.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.WebPages.dll
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.WebPages.Razor.dll
+D:\Projects For Test\FileManager\FileManager\bin\WebGrease.dll
+D:\Projects For Test\FileManager\FileManager\bin\Bll.pdb
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.Web.xml
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.ApplicationInsights.xml
+D:\Projects For Test\FileManager\FileManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects For Test\FileManager\FileManager\bin\Newtonsoft.Json.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Net.Http.Formatting.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Helpers.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Http.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Http.WebHost.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Mvc.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Optimization.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.Razor.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.WebPages.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.WebPages.Deployment.xml
+D:\Projects For Test\FileManager\FileManager\bin\System.Web.WebPages.Razor.xml
+D:\Projects For Test\FileManager\FileManager\bin\Antlr3.Runtime.pdb
+D:\Projects For Test\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+D:\Projects For Test\FileManager\FileManager\obj\Debug\FileManager.dll
+D:\Projects For Test\FileManager\FileManager\obj\Debug\FileManager.pdb

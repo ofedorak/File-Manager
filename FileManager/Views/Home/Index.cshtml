@@ -1,0 +1,68 @@
+﻿<script src="~/Scripts/angular.js"></script>
+<script src="~/Scripts/AngularControllers/FileManagerController.js"></script>
+<script src="~/Scripts/AngularServices/ApiCallService.js"></script>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<div ng-app="App">
+    <div class="row" ng-controller="DirectoryController">
+
+        <div id="loader-content" >
+            <img src="/Content/Images/loader.gif" class="loader" />
+        </div>
+
+        <div class="col-md-6 col-md-offset-3 content-directories">
+
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <table class="table table-bordered table-file-count">
+                        <thead>
+                        <tr>
+                            <th>Less 10MB</th>
+                            <th>10MB-50MB</th>
+                            <th>More 100MB</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>{{FileDirecotoriesInfoApiModel.FileCountInfoModel.LessOrEqualTen}}</td>
+                            <td>{{FileDirecotoriesInfoApiModel.FileCountInfoModel.LessOrEqualFifty}}</td>
+                            <td>{{FileDirecotoriesInfoApiModel.FileCountInfoModel.GreaterOrEqualHundred}}</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <span class="current_path_text">Current path:</span>
+                    <span>{{FileDirecotoriesInfoApiModel.CurrentDirectory}}</span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="parent_directory">
+                        <span ng-if="FileDirecotoriesInfoApiModel.ParentDirectory != null" class="direcory_path" ng-click="GetDirectory(FileDirecotoriesInfoApiModel.ParentDirectory)">..</span>
+
+                        <div ng-if="FileDirecotoriesInfoApiModel.ParentDirectory == null" ng-model="FileDirecotoriesInfoApiModel.CurrentDirectory">
+                            <div ng-repeat="driveName in DrivesName">
+                                <span class="direcory_path" ng-click="GetDrivesDirectory(driveName)"> Go to {{driveName}}</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div ng-repeat="directory in FileDirecotoriesInfoApiModel.Directories">
+                        <span class="direcory_path" ng-click="GetDirectory(FileDirecotoriesInfoApiModel.CurrentDirectory +'\\'+ directory)">{{directory}}</span>
+                    </div>
+
+                    <div class="animate-repeat" ng-repeat="file in FileDirecotoriesInfoApiModel.Files">
+                        {{file}}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br/>
+    </div>
+</div>
