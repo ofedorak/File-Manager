@@ -13,7 +13,6 @@ namespace FileManager.Controllers
     {
         public IFileDirectoryService FileDirectoryService = new FileDirectoryService();
 
-
         [HttpGet]
         public async Task<IHttpActionResult> Get()
         {

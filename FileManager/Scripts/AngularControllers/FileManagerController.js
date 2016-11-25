@@ -11,12 +11,11 @@ AnguarModule.controller('DirectoryController', function ($scope, $http, apiCall)
         $('#loader-content').show();
 
         apiCall.GetDirectory(path).success(function (data, status) {
-
-
             $scope.FileDirecotoriesInfoApiModel = data;
-            $('#loader-content').hide();
         }).error(function (error) {
             alert(error.ExceptionMessage);
+        }).finally(function() {
+            $('#loader-content').hide();
         });
     }
 
@@ -24,13 +23,14 @@ AnguarModule.controller('DirectoryController', function ($scope, $http, apiCall)
         $('#loader-content').show();
         apiCall.GetDrivesDirectory(driveName).success(function (data, status) {
             $scope.FileDirecotoriesInfoApiModel = data;
-            $('#loader-content').hide();
         }).error(function (error) {
             alert(error.ExceptionMessage);
+        }).finally(function() {
+            $('#loader-content').hide();
         });
     }
 
-    $scope.$watch('FileDirecotoriesInfoApiModel.CurrentDirectory', function (newVal, oldVal) {
+    $scope.$watch('FileDirecotoriesInfoApiModel.CurrentDirectory', function () {
         if ($scope.FileDirecotoriesInfoApiModel != null &&
             $scope.FileDirecotoriesInfoApiModel.ParentDirectory == null) {
                 apiCall.GetDrivesName($scope.FileDirecotoriesInfoApiModel.CurrentDirectory).success(function (data, status) {
